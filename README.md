@@ -6,7 +6,7 @@
 
 ## Installation
 ```
-git clone https://github.com/lim271/MarkovDecisionProcess
+git clone https://github.com/MLCS-Yonsei/MarkovDecisionProcess
 cd MarkovDecisionProcess
 pip3 install -e .
 ```
